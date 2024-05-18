@@ -1,6 +1,6 @@
 import * as React from "react";
 
-export const ChainEthereumIcon = React.forwardRef<
+export const ETHIcon = React.forwardRef<
   SVGSVGElement,
   React.SVGAttributes<SVGElement>
 >(({ ...props }, forwardedRef) => {
