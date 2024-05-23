@@ -3,6 +3,7 @@ export { ChainArbitrumIcon } from "./chains/ArbitrumIcon";
 export { ChainBNBIcon } from "./chains/BNBIcon";
 export { ChainPolygonIcon } from "./chains/PolygonIcon";
 export { ChainAvalancheIcon } from "./chains/AvalancheIcon";
+export { ChainTonIcon } from "./chains/TonIcon";
 
 export { USDCIcon } from "./tokens/USDCIcon";
 export { USDTIcon } from "./tokens/USDTIcon";
