@@ -9,3 +9,8 @@ export { ChainDogeIcon } from "./chains/DogeIcon";
 export { USDCIcon } from "./tokens/USDCIcon";
 export { USDTIcon } from "./tokens/USDTIcon";
 export { ETHIcon } from "./tokens/ETHIcon";
+
+export { MetamaskIcon } from "./wallets/MetamaskIcon";
+
+export { EtherscanIcon } from "./scans/EtherscanIcon";
+export { EtherscanDarkIcon } from "./scans/EtherscanDarkIcon";

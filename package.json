@@ -1,6 +1,6 @@
 {
   "name": "web3-icons",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "description": "Web3 Icons",
   "module": "dist/web3-icons.esm.js",
   "main": "dist/index.js",
